@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable_right.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable/right.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable_perso.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable/perso.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_01.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-mdpi/zone_01.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_02.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-ldpi/zone_02.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_vide.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-mdpi/vide.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable_zone_03.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable/zone_03.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable_block.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable/block.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable_diamant.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable/diamant.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable_zone_01.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable/zone_01.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_perso.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-ldpi/perso.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_mic_off.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-ldpi/mic_off.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_mic_on.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-ldpi/mic_on.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_perso.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-mdpi/perso.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable_left.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable/left.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_block.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-ldpi/block.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_04.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-mdpi/zone_04.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_02.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-hdpi/zone_02.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable_down.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable/down.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_block.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-mdpi/block.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_03.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-ldpi/zone_03.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_02.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-mdpi/zone_02.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_vide.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-hdpi/vide.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_diamant.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-ldpi/diamant.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_01.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-ldpi/zone_01.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_perso.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-hdpi/perso.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/layout_main2.xml.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/layout/main2.xml"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_block.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-hdpi/block.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_vide.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-ldpi/vide.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable_zone_04.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable/zone_04.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable_up.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable/up.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_04.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-hdpi/zone_04.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_diamant.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-mdpi/diamant.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_diamant.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-hdpi/diamant.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable_vide.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable/vide.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable_zone_02.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable/zone_02.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_03.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-hdpi/zone_03.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable_win.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable/win.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-ldpi_zone_04.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-ldpi/zone_04.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-hdpi_zone_01.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-hdpi/zone_01.png"
+    },
+    {
+        "merged": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/res/merged/debug/drawable-mdpi_zone_03.png.flat",
+        "source": "/home/narco92/AndroidStudioProjects/P8_Sokoban/app/src/main/res/drawable-mdpi/zone_03.png"
+    }
+]

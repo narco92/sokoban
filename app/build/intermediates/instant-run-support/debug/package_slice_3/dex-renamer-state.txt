@@ -1,0 +1,4 @@
+#Thu Nov 23 10:48:57 CET 2017
+base.0=/home/narco92/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/transforms/dexMerger/debug/22
+path.0=classes.dex
+renamed.0=classes.dex
